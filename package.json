@@ -1,0 +1,15 @@
+{
+  "name": "sns-sms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "FeelHippo",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.450.0",
+    "@aws-sdk/credential-provider-sso": "^3.398.0"
+  }
+}
